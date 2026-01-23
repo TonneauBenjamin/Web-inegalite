@@ -1,1 +1,1 @@
-# Web-inegalite
+# web_inegalite
